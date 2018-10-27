@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "1077119519895",
-    "firebase_url": "https://fihorapido.firebaseio.com",
-    "project_id": "fihorapido",
-    "storage_bucket": "fihorapido.appspot.com"
+    "project_number": "379505993205",
+    "firebase_url": "https://topsalao-9d129.firebaseio.com",
+    "project_id": "topsalao-9d129",
+    "storage_bucket": "topsalao-9d129.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1077119519895:android:56c43957787492cd",
+        "mobilesdk_app_id": "1:379505993205:android:e3d7049363433012",
         "android_client_info": {
-          "package_name": "com.grantec.filhorapido"
+          "package_name": "com.grantec.topsalao"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1077119519895-g1l40n2jju2tjjsj4n878ugll25j7mh9.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.grantec.filhorapido",
-            "certificate_hash": "d8164481128636ecd7790e81755e3a14cddc46eb"
-          }
-        },
-        {
-          "client_id": "1077119519895-eqtt7m6rqohqm943kt4j2sm8cck74s8h.apps.googleusercontent.com",
+          "client_id": "379505993205-bgrh9vo8klik4s4nolnq5bpfn8u15npu.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD6AgoPlkY1PJ6zDTNSRhu7zrHgQICWnCU"
+          "current_key": "AIzaSyDhZHP5qwWyfkALFnn_T4fRa9vY0_okybw"
         }
       ],
       "services": {
@@ -37,21 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1077119519895-eqtt7m6rqohqm943kt4j2sm8cck74s8h.apps.googleusercontent.com",
-              "client_type": 3
-            },
-            {
-              "client_id": "1077119519895-42pelq1ep5gnm2kcmflchhsuob7t5mob.apps.googleusercontent.com",
-              "client_type": 2,
-              "ios_info": {
-                "bundle_id": "com.grantec.filhorapido",
-                "app_store_id": "1248884940"
-              }
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
