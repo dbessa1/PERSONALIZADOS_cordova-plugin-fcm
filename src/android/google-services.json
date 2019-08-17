@@ -25,15 +25,21 @@
         }
       ],
       "services": {
-        "analytics_service": {
-          "status": 1
-        },
         "appinvite_service": {
-          "status": 1,
-          "other_platform_oauth_client": []
-        },
-        "ads_service": {
-          "status": 2
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379505993205-bgrh9vo8klik4s4nolnq5bpfn8u15npu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379505993205-rf20cr374aihubpk0gad6fnot3bb6r9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.grantec.topsalao",
+                "app_store_id": "1442283363"
+              }
+            }
+          ]
         }
       }
     }
