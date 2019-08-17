@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "379505993205",
+    "firebase_url": "https://topsalao-9d129.firebaseio.com",
+    "project_id": "topsalao-9d129",
+    "storage_bucket": "topsalao-9d129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379505993205:android:e3d7049363433012",
+        "android_client_info": {
+          "package_name": "com.grantec.topsalao"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379505993205-bgrh9vo8klik4s4nolnq5bpfn8u15npu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhZHP5qwWyfkALFnn_T4fRa9vY0_okybw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379505993205-bgrh9vo8klik4s4nolnq5bpfn8u15npu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "379505993205-rf20cr374aihubpk0gad6fnot3bb6r9d.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.grantec.topsalao",
+                "app_store_id": "1442283363"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
